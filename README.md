@@ -1,2 +1,2 @@
-# Retrobox 1.4 [3.9][ALL] 05/11/2020
-Retrobox 1.4 [3.9][ALL] 05/11/2020
+# RetrOrangePI 4.2 H3 21/01/2021
+RetrOrangePI 4.2 H3 21/01/2021
